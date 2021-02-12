@@ -69,3 +69,5 @@ package-lock.json
 /package.json
 *.mongodb
 link-plugins.sh
+
+plugins
